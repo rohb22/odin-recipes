@@ -12,3 +12,10 @@ Stuff that i learn and apply into this project.
 - Use of ul and li tags
 - Use of relative links(used in accessing different pages) and absolute links(used in recipe images)
 - Use of git and github
+
+## Update
+The project need to be styled with css\
+Foundations CSS\
+Project: Style Odin Recipes\
+Date started: March 12 2022\
+Date finished: ? 
