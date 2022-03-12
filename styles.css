@@ -13,6 +13,7 @@ body {
 a {
     text-decoration: none;
     color: rgb(54, 178, 250);
+    transition: 500ms all ease;
 }
 
 img {
@@ -20,4 +21,8 @@ img {
     margin-left: auto;
     margin-right: auto;
     border: 2px solid black;
+}
+
+a:hover {
+    font-size: 2em;
 }
